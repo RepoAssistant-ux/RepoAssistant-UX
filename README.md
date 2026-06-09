@@ -101,6 +101,38 @@ print(generate_remotexs_url("https://jstor.org"))
 Developing and testing automation workflows for platforms like DSpace, MyLoFT, and RemoteXS takes massive amounts of development time. Keeping these tools free ensures underfunded institutions don't have to hire expensive software consultants.
 
 Please support this open-source journey by clicking the **Sponsor** button at the top right of this page!
+---
+
+## 📚 University Student Resources & Tools
+Access our specialized medical library study guides and automation utilities:
+
+* 📘 **[Wolters Kluwer Health Library Master Guide](WOLTERS_KLUWER_GUIDE.md)** - Learn how to authenticate, bypass paywalls, and extract medical textbooks for your university study blocks.
+* 🐍 **[Automated HTML Documentation Generator Script](generate_guide.py)** - Run this native Python automation script on your terminal to instantly build a stylized, offline-friendly HTML portal of your study guide material.
+
+## 💻 How to Run the HTML Generator Script
+
+Students and librarians can use these simple terminal commands to run the script locally and generate the offline HTML guide.
+
+### 1. Prerequisites
+Ensure you have Python installed on your computer. You can check by running:
+```bash
+python --version
+```
+
+### 2. Execution Steps
+1. Clone this repository or download the `generate_guide.py` file to your computer.
+2. Open your terminal (Command Prompt on Windows, Terminal on Mac/Linux) and navigate to the folder containing the file.
+3. Run the script using the following command:
+
+```bash
+python generate_guide.py
+```
+
+### 3. Output
+Once completed, you will see a success message in your terminal:
+`✅ Generated 'wolters_kluwer_university_guide.html' successfully.`
+
+You can now double-click the newly created `wolters_kluwer_university_guide.html` file to open it instantly in any web browser for offline viewing!
 
 
 
