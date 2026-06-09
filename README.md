@@ -1,9 +1,7 @@
-# RepoAssistant-UX 🐍
-![Role](https://shields.io)
-![Focus](https://shields.io)
-![Markdown](https://shields.io)
-![GitHub](https://shields.io)
-![Python](https://shields.io)
+
+# RepoAssistant-UX 📚🤖
+
+
 
 
 
